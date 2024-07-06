@@ -1,0 +1,37 @@
+body {
+  background: url("https://www.shutterstock.com/image-photo/shawarma-sandwich-gyro-fresh-roll-600nw-1986073697.jpg");
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  margin: 30px;
+  padding-right: 50px;
+  color: white;
+}
+li {
+  place-items: center;
+  padding-right: 20px;
+}
+h2 {
+  color: brown;
+  font-style: oblique;
+}
+h3 {
+  color: brown;
+  font-style: oblique;
+}
+h4 {
+  color: darkred;
+  font-style: italic;
+}
+h1 {
+  color: rgb(139, 60, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div1 {
+  display: flex;
+  height: 200px;
+  width: 200px;
+  justify-content: space-evenly;
+}
